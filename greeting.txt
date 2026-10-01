@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello from my laptop
-=======
-Hello from the web
->>>>>>> d2ebe316012916b5ea45106f79bbff8c878a7bee
 안녕하세요
 
